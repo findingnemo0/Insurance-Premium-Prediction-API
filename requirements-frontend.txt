@@ -1,0 +1,6 @@
+streamlit==1.59.0
+requests==2.34.2
+
+
+# to run frontend use this command as it contain 8502 port so that i would create conflit with alraedy in use port
+# docker run -d -p 8502:8501 ...
